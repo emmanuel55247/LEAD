@@ -5,24 +5,27 @@ image: "assets/images/profiles/Emmanuel-Alio-Denis/Emmanuel-Alio-Denis.png"
 country: Uganda
 region: West Nile
 hub: Reliable Refugee Stories Association
-languages:
-mail: 
-phone: "+256778111919"
-whatsapp: "+256778111919"
+languages:English,Simple Arabic,kakwa Keliko
+mail: emmanuelalio87@gmail.com
+phone: "+256765942522"
+whatsapp: "+256765942522"
 website: 
 telegram: 
 github: 
 linkedin: 
-twitter: Ewisdom
-facebook: 
+twitter: Emmanuel Denis
+facebook: Emmanuel Denis
 instagram: 
 mastodon: 
 wikifab: 
 skills:
   - {name: 'Community & Moderation', number: 1, qualification: "
   * Holding a Certificate in Videography and Content Creation.
+  * Certificate in Introduction to Html &Css
+  * Directorate of industrial Training certificate in Automotive Body and Paint.
   
   * Working as a mobilizing officers for RRSA
+  * works as the chief Editor for RRSA
   "}
   - {name: 'Organisational Development' , number: 2, qualification: '
   * The Co-founder OF RRSA and <a href="https://www.youtube.com/@keliboyscomedy211">Keli Boys</a>
